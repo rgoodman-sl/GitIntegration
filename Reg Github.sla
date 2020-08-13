@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "ConnectFasterInc"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Reg Github"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "f7c9bca3cdb1d909994d00c87d300e1b5c16ef6881068c031269b72e8ba6d463",
+                "key": "account-cloud-managed-5592aed995315c0d2e1aaeeb-2015-06-30T14:59:59-654446",
+                "sym_iv": "61q3EWmcxXkQgC2xToUU4w==",
+                "sym_key": "dElW1rylM33dNZNjxa0B00SgDkoOCkPtu7tyK7BlGi4jqVSXUK2AaCnWJaeaT0mZi+U1FVwRPeJPheYB6qRrg3CrmaIkHfjzWwhByXcMbDA30F2X8fySfgfUqd6eIkEjpqjniLmV+Ssxo3NTm4VsRUe+WWAMod0AMBA35mBcRs91n3rLMYYmVohtXVPramzXdmYSkU+QJPKABSgA3J4hvg7PsgsEmZaqpegD7XO4RuJemYtu8huRc1zYigsjGZfkerCNQ3DvpBsRe3j8V3H6YVjhgbVMqD9njCUXEsjqhYwDU4OSOesA3K/weaEVjxhcSNgGTx1f2dtXxw5OSB4Jvw==",
+                "value": "+iVuA8qyoMXr6Rx+Rek0OA=="
+            },
+            "username": {
+                "value": "rgoodman@snaplogic.com"
+            }
+        },
+        "view_serial": 100
+    }
+}
