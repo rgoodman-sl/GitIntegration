@@ -1,0 +1,28 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restbasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "ConnectFasterInc"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Snaplogic Demo Git"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "fp": "f7c9bca3cdb1d909994d00c87d300e1b5c16ef6881068c031269b72e8ba6d463",
+                "key": "account-cloud-managed-5592aed995315c0d2e1aaeeb-2015-06-30T14:59:59-654446",
+                "value": "EAK5wigP2jtDWo7FduCcHcmtAdDpNLBNRNJuLZqnv1Kxnz7BKpnC4yJEb073wOdVDUgwsWRrwabSoOE9XQyJAjvqekXwEGVTbEAterbXiv7x9DYO9HCgetzCgeeBItga9NYUvkgEbADGYhbK4KEP56rUNCxrMSQgmDa7AVNezv9Hdtm9WW45VAOyuzArLDY43oz3gz7Be3HpBWRVTbQDDTZ6A1Af8PafTsDyn5b97VH33VPTb23fP4x3gzXZ/HD6Jj0pNND543iqQbOSe+dnIWFE528bDzyfPARSwwrBGsF7MH3StwSqgaMwalfKgX72JxeHHLeqnckJlZ8mE+pZdw=="
+            },
+            "username": {
+                "value": "snapsrepo"
+            }
+        },
+        "view_serial": 100
+    }
+}
