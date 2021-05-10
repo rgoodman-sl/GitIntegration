@@ -419,21 +419,7 @@
             "class_version": 2,
             "instance_id": "11111111-1111-1111-1111-000000000001",
             "property_map": {
-                "account": {
-                    "account_ref": {
-                        "value": {
-                            "label": {
-                                "value": "Nidhi Git"
-                            },
-                            "ref_class_id": {
-                                "value": "com-snaplogic-snaps-rest-restbasicauthaccount"
-                            },
-                            "ref_id": {
-                                "value": null
-                            }
-                        }
-                    }
-                },
+                "account": {},
                 "error": {
                     "error0": {
                         "label": {
@@ -1282,21 +1268,7 @@
             "class_version": 1,
             "instance_id": "11111111-1111-1111-1111-00000000000c",
             "property_map": {
-                "account": {
-                    "account_ref": {
-                        "value": {
-                            "label": {
-                                "value": "Nidhi Git"
-                            },
-                            "ref_class_id": {
-                                "value": "com-snaplogic-snaps-rest-restbasicauthaccount"
-                            },
-                            "ref_id": {
-                                "value": null
-                            }
-                        }
-                    }
-                },
+                "account": {},
                 "error": {
                     "error0": {
                         "label": {
