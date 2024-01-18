@@ -3,63 +3,63 @@
     "class_version": 9,
     "link_map": {
         "link106": {
-            "dst_id": "11111111-1111-1111-1111-000000000008",
+            "dst_id": "11111111-1111-1111-1111-000000000004",
             "dst_view_id": "input0",
             "src_id": "11111111-1111-1111-1111-000000000002",
             "src_view_id": "output0"
         },
         "link117": {
+            "dst_id": "11111111-1111-1111-1111-000000000006",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000004",
+            "src_view_id": "output0"
+        },
+        "link123": {
+            "dst_id": "11111111-1111-1111-1111-000000000008",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000007",
+            "src_view_id": "output0"
+        },
+        "link124": {
+            "dst_id": "11111111-1111-1111-1111-000000000009",
+            "dst_view_id": "input0",
+            "src_id": "11111111-1111-1111-1111-000000000007",
+            "src_view_id": "output1"
+        },
+        "link125": {
             "dst_id": "11111111-1111-1111-1111-00000000000a",
             "dst_view_id": "input0",
             "src_id": "11111111-1111-1111-1111-000000000008",
             "src_view_id": "output0"
         },
-        "link123": {
-            "dst_id": "11111111-1111-1111-1111-000000000006",
-            "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-00000000000b",
-            "src_view_id": "output0"
-        },
-        "link124": {
-            "dst_id": "11111111-1111-1111-1111-000000000007",
-            "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-00000000000b",
-            "src_view_id": "output1"
-        },
-        "link125": {
-            "dst_id": "11111111-1111-1111-1111-000000000003",
-            "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-000000000006",
-            "src_view_id": "output0"
-        },
         "link126": {
-            "dst_id": "11111111-1111-1111-1111-000000000003",
+            "dst_id": "11111111-1111-1111-1111-00000000000a",
             "dst_view_id": "input1",
-            "src_id": "11111111-1111-1111-1111-000000000007",
+            "src_id": "11111111-1111-1111-1111-000000000009",
             "src_view_id": "output0"
         },
         "link127": {
-            "dst_id": "11111111-1111-1111-1111-00000000000c",
+            "dst_id": "11111111-1111-1111-1111-00000000000b",
             "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-000000000003",
+            "src_id": "11111111-1111-1111-1111-00000000000a",
             "src_view_id": "output0"
         },
         "link137": {
-            "dst_id": "11111111-1111-1111-1111-000000000005",
+            "dst_id": "11111111-1111-1111-1111-000000000003",
             "dst_view_id": "input0",
             "src_id": "11111111-1111-1111-1111-000000000001",
             "src_view_id": "error0"
         },
         "link138": {
-            "dst_id": "11111111-1111-1111-1111-000000000005",
+            "dst_id": "11111111-1111-1111-1111-000000000003",
             "dst_view_id": "input1",
             "src_id": "11111111-1111-1111-1111-000000000001",
             "src_view_id": "output0"
         },
         "link139": {
-            "dst_id": "11111111-1111-1111-1111-000000000009",
+            "dst_id": "11111111-1111-1111-1111-000000000005",
             "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-000000000005",
+            "src_id": "11111111-1111-1111-1111-000000000003",
             "src_view_id": "output0"
         },
         "link141": {
@@ -69,27 +69,27 @@
             "src_view_id": "output0"
         },
         "link142": {
-            "dst_id": "11111111-1111-1111-1111-00000000000a",
+            "dst_id": "11111111-1111-1111-1111-000000000006",
             "dst_view_id": "input1",
-            "src_id": "11111111-1111-1111-1111-000000000009",
+            "src_id": "11111111-1111-1111-1111-000000000005",
             "src_view_id": "output0"
         },
         "link143": {
-            "dst_id": "11111111-1111-1111-1111-00000000000b",
+            "dst_id": "11111111-1111-1111-1111-000000000007",
             "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-00000000000a",
+            "src_id": "11111111-1111-1111-1111-000000000006",
             "src_view_id": "output0"
         },
         "link146": {
-            "dst_id": "11111111-1111-1111-1111-000000000004",
+            "dst_id": "11111111-1111-1111-1111-00000000000c",
             "dst_view_id": "input1",
-            "src_id": "11111111-1111-1111-1111-00000000000c",
+            "src_id": "11111111-1111-1111-1111-00000000000b",
             "src_view_id": "output0"
         },
         "link147": {
-            "dst_id": "11111111-1111-1111-1111-000000000004",
+            "dst_id": "11111111-1111-1111-1111-00000000000c",
             "dst_view_id": "input0",
-            "src_id": "11111111-1111-1111-1111-00000000000c",
+            "src_id": "11111111-1111-1111-1111-00000000000b",
             "src_view_id": "error0"
         }
     },
@@ -116,7 +116,7 @@
         },
         "input": {},
         "output": {
-            "11111111-1111-1111-1111-000000000004_output0": {
+            "11111111-1111-1111-1111-00000000000c_output0": {
                 "label": {
                     "value": "Union - output0"
                 },
@@ -236,36 +236,6 @@
             },
             "11111111-1111-1111-1111-000000000003": {
                 "error": {},
-                "grid_x_int": 7,
-                "grid_y_int": 2,
-                "input": {
-                    "input1": {
-                        "dx_int": 0,
-                        "dy_int": 1,
-                        "rot_int": 0
-                    }
-                },
-                "output": {},
-                "rot_int": 0,
-                "rot_tail_int": 0
-            },
-            "11111111-1111-1111-1111-000000000004": {
-                "error": {},
-                "grid_x_int": 9,
-                "grid_y_int": 1,
-                "input": {
-                    "input1": {
-                        "dx_int": 0,
-                        "dy_int": 1,
-                        "rot_int": 0
-                    }
-                },
-                "output": {},
-                "rot_int": 0,
-                "rot_tail_int": 0
-            },
-            "11111111-1111-1111-1111-000000000005": {
-                "error": {},
                 "grid_x_int": 2,
                 "grid_y_int": 3,
                 "input": {
@@ -279,43 +249,25 @@
                 "rot_int": 0,
                 "rot_tail_int": 0
             },
+            "11111111-1111-1111-1111-000000000004": {
+                "error": {},
+                "grid_x_int": 3,
+                "grid_y_int": 2,
+                "input": {},
+                "output": {},
+                "rot_int": 0,
+                "rot_tail_int": 0
+            },
+            "11111111-1111-1111-1111-000000000005": {
+                "error": {},
+                "grid_x_int": 3,
+                "grid_y_int": 3,
+                "input": {},
+                "output": {},
+                "rot_int": 0,
+                "rot_tail_int": 0
+            },
             "11111111-1111-1111-1111-000000000006": {
-                "error": {},
-                "grid_x_int": 6,
-                "grid_y_int": 2,
-                "input": {},
-                "output": {},
-                "rot_int": 0,
-                "rot_tail_int": 0
-            },
-            "11111111-1111-1111-1111-000000000007": {
-                "error": {},
-                "grid_x_int": 6,
-                "grid_y_int": 3,
-                "input": {},
-                "output": {},
-                "rot_int": 0,
-                "rot_tail_int": 0
-            },
-            "11111111-1111-1111-1111-000000000008": {
-                "error": {},
-                "grid_x_int": 3,
-                "grid_y_int": 2,
-                "input": {},
-                "output": {},
-                "rot_int": 0,
-                "rot_tail_int": 0
-            },
-            "11111111-1111-1111-1111-000000000009": {
-                "error": {},
-                "grid_x_int": 3,
-                "grid_y_int": 3,
-                "input": {},
-                "output": {},
-                "rot_int": 0,
-                "rot_tail_int": 0
-            },
-            "11111111-1111-1111-1111-00000000000a": {
                 "error": {},
                 "grid_x_int": 4,
                 "grid_y_int": 2,
@@ -330,7 +282,7 @@
                 "rot_int": 0,
                 "rot_tail_int": 0
             },
-            "11111111-1111-1111-1111-00000000000b": {
+            "11111111-1111-1111-1111-000000000007": {
                 "error": {},
                 "grid_x_int": 5,
                 "grid_y_int": 2,
@@ -345,7 +297,40 @@
                 "rot_int": 0,
                 "rot_tail_int": 0
             },
-            "11111111-1111-1111-1111-00000000000c": {
+            "11111111-1111-1111-1111-000000000008": {
+                "error": {},
+                "grid_x_int": 6,
+                "grid_y_int": 2,
+                "input": {},
+                "output": {},
+                "rot_int": 0,
+                "rot_tail_int": 0
+            },
+            "11111111-1111-1111-1111-000000000009": {
+                "error": {},
+                "grid_x_int": 6,
+                "grid_y_int": 3,
+                "input": {},
+                "output": {},
+                "rot_int": 0,
+                "rot_tail_int": 0
+            },
+            "11111111-1111-1111-1111-00000000000a": {
+                "error": {},
+                "grid_x_int": 7,
+                "grid_y_int": 2,
+                "input": {
+                    "input1": {
+                        "dx_int": 0,
+                        "dy_int": 1,
+                        "rot_int": 0
+                    }
+                },
+                "output": {},
+                "rot_int": 0,
+                "rot_tail_int": 0
+            },
+            "11111111-1111-1111-1111-00000000000b": {
                 "error": {
                     "error0": {
                         "dx_int": 0,
@@ -356,6 +341,21 @@
                 "grid_x_int": 8,
                 "grid_y_int": 2,
                 "input": {},
+                "output": {},
+                "rot_int": 0,
+                "rot_tail_int": 0
+            },
+            "11111111-1111-1111-1111-00000000000c": {
+                "error": {},
+                "grid_x_int": 9,
+                "grid_y_int": 1,
+                "input": {
+                    "input1": {
+                        "dx_int": 0,
+                        "dy_int": 1,
+                        "rot_int": 0
+                    }
+                },
                 "output": {},
                 "rot_int": 0,
                 "rot_tail_int": 0
@@ -419,21 +419,7 @@
             "class_version": 2,
             "instance_id": "11111111-1111-1111-1111-000000000001",
             "property_map": {
-                "account": {
-                    "account_ref": {
-                        "value": {
-                            "label": {
-                                "value": "Nidhi Git"
-                            },
-                            "ref_class_id": {
-                                "value": "com-snaplogic-snaps-rest-restbasicauthaccount"
-                            },
-                            "ref_id": {
-                                "value": null
-                            }
-                        }
-                    }
-                },
+                "account": {},
                 "error": {
                     "error0": {
                         "label": {
@@ -606,116 +592,6 @@
                 },
                 "info": {
                     "label": {
-                        "value": "Union"
-                    }
-                },
-                "input": {
-                    "input0": {
-                        "label": {
-                            "value": "input0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    },
-                    "input1": {
-                        "label": {
-                            "value": "input1"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    }
-                },
-                "output": {
-                    "output0": {
-                        "label": {
-                            "value": "output0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    }
-                },
-                "settings": {},
-                "view_serial": 100
-            }
-        },
-        "11111111-1111-1111-1111-000000000004": {
-            "class_id": "com-snaplogic-snaps-flow-union",
-            "class_version": 2,
-            "instance_id": "11111111-1111-1111-1111-000000000004",
-            "property_map": {
-                "error": {
-                    "error0": {
-                        "label": {
-                            "value": "error0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    },
-                    "error_behavior": {
-                        "value": "fail"
-                    }
-                },
-                "info": {
-                    "label": {
-                        "value": "Union"
-                    }
-                },
-                "input": {
-                    "input0": {
-                        "label": {
-                            "value": "input0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    },
-                    "input1": {
-                        "label": {
-                            "value": "input1"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    }
-                },
-                "output": {
-                    "output0": {
-                        "label": {
-                            "value": "output0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    }
-                },
-                "settings": {},
-                "view_serial": 100
-            }
-        },
-        "11111111-1111-1111-1111-000000000005": {
-            "class_id": "com-snaplogic-snaps-flow-union",
-            "class_version": 2,
-            "instance_id": "11111111-1111-1111-1111-000000000005",
-            "property_map": {
-                "error": {
-                    "error0": {
-                        "label": {
-                            "value": "error0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    },
-                    "error_behavior": {
-                        "value": "fail"
-                    }
-                },
-                "info": {
-                    "label": {
                         "value": "Union2"
                     }
                 },
@@ -751,10 +627,319 @@
                 "view_serial": 100
             }
         },
-        "11111111-1111-1111-1111-000000000006": {
+        "11111111-1111-1111-1111-000000000004": {
+            "class_id": "com-snaplogic-snaps-transform-binarytodocument",
+            "class_version": 1,
+            "instance_id": "11111111-1111-1111-1111-000000000004",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Encode Base64"
+                    },
+                    "notes": {
+                        "value": null
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "binary"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "codec": {
+                        "value": "ENCODE_BASE64"
+                    },
+                    "ignoreEmptyStream": {
+                        "value": false
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000005": {
             "class_id": "com-snaplogic-snaps-transform-datatransform",
             "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000005",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Get SHA"
+                    },
+                    "notes": {
+                        "value": null
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "passThrough": {
+                        "value": false
+                    },
+                    "transformations": {
+                        "value": {
+                            "mappingRoot": {
+                                "value": "$"
+                            },
+                            "mappingTable": {
+                                "value": [
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "$.hasOwnProperty(\"entity.sha\") ? $entity.sha : null"
+                                        },
+                                        "targetPath": {
+                                            "value": "$sha"
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000006": {
+            "class_id": "com-snaplogic-snaps-transform-multijoin",
+            "class_version": 1,
             "instance_id": "11111111-1111-1111-1111-000000000006",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Join"
+                    },
+                    "notes": {
+                        "value": null
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "input1": {
+                        "label": {
+                            "value": "input1"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "joinPaths": {
+                        "value": [
+                            {
+                                "leftPath": {
+                                    "expression": true,
+                                    "value": "1"
+                                },
+                                "rightInputView": {
+                                    "value": "input1"
+                                },
+                                "rightPath": {
+                                    "expression": true,
+                                    "value": "1"
+                                }
+                            }
+                        ]
+                    },
+                    "joinType": {
+                        "value": "Merge"
+                    },
+                    "noMatchData": {
+                        "value": false
+                    },
+                    "nullGreater": {
+                        "value": false
+                    },
+                    "nullSafeAccess": {
+                        "value": false
+                    },
+                    "sortedStreams": {
+                        "value": "Ascending"
+                    }
+                },
+                "view_serial": 101
+            }
+        },
+        "11111111-1111-1111-1111-000000000007": {
+            "class_id": "com-snaplogic-snaps-flow-router",
+            "class_version": 2,
+            "instance_id": "11111111-1111-1111-1111-000000000007",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Router"
+                    },
+                    "notes": {
+                        "value": null
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "Create"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "output1": {
+                        "label": {
+                            "value": "Update"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {
+                    "firstMatch": {
+                        "value": true
+                    },
+                    "routes": {
+                        "value": [
+                            {
+                                "expression": {
+                                    "expression": true,
+                                    "value": "$sha == null"
+                                },
+                                "outputViewName": {
+                                    "value": "Create"
+                                }
+                            },
+                            {
+                                "expression": {
+                                    "expression": true,
+                                    "value": "$sha != null"
+                                },
+                                "outputViewName": {
+                                    "value": "Update"
+                                }
+                            }
+                        ]
+                    }
+                },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-000000000008": {
+            "class_id": "com-snaplogic-snaps-transform-datatransform",
+            "class_version": 4,
+            "instance_id": "11111111-1111-1111-1111-000000000008",
             "property_map": {
                 "error": {
                     "error0": {
@@ -855,10 +1040,10 @@
                 "view_serial": 100
             }
         },
-        "11111111-1111-1111-1111-000000000007": {
+        "11111111-1111-1111-1111-000000000009": {
             "class_id": "com-snaplogic-snaps-transform-datatransform",
             "class_version": 4,
-            "instance_id": "11111111-1111-1111-1111-000000000007",
+            "instance_id": "11111111-1111-1111-1111-000000000009",
             "property_map": {
                 "error": {
                     "error0": {
@@ -968,143 +1153,9 @@
                 "view_serial": 100
             }
         },
-        "11111111-1111-1111-1111-000000000008": {
-            "class_id": "com-snaplogic-snaps-transform-binarytodocument",
-            "class_version": 1,
-            "instance_id": "11111111-1111-1111-1111-000000000008",
-            "property_map": {
-                "error": {
-                    "error0": {
-                        "label": {
-                            "value": "error0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    },
-                    "error_behavior": {
-                        "value": "fail"
-                    }
-                },
-                "info": {
-                    "label": {
-                        "value": "Encode Base64"
-                    },
-                    "notes": {
-                        "value": null
-                    }
-                },
-                "input": {
-                    "input0": {
-                        "label": {
-                            "value": "input0"
-                        },
-                        "view_type": {
-                            "value": "binary"
-                        }
-                    }
-                },
-                "output": {
-                    "output0": {
-                        "label": {
-                            "value": "output0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    }
-                },
-                "settings": {
-                    "codec": {
-                        "value": "ENCODE_BASE64"
-                    },
-                    "ignoreEmptyStream": {
-                        "value": false
-                    }
-                },
-                "view_serial": 100
-            }
-        },
-        "11111111-1111-1111-1111-000000000009": {
-            "class_id": "com-snaplogic-snaps-transform-datatransform",
-            "class_version": 4,
-            "instance_id": "11111111-1111-1111-1111-000000000009",
-            "property_map": {
-                "error": {
-                    "error0": {
-                        "label": {
-                            "value": "error0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    },
-                    "error_behavior": {
-                        "value": "fail"
-                    }
-                },
-                "info": {
-                    "label": {
-                        "value": "Get SHA"
-                    },
-                    "notes": {
-                        "value": null
-                    }
-                },
-                "input": {
-                    "input0": {
-                        "label": {
-                            "value": "input0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    }
-                },
-                "output": {
-                    "output0": {
-                        "label": {
-                            "value": "output0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    }
-                },
-                "settings": {
-                    "nullSafeAccess": {
-                        "value": false
-                    },
-                    "passThrough": {
-                        "value": false
-                    },
-                    "transformations": {
-                        "value": {
-                            "mappingRoot": {
-                                "value": "$"
-                            },
-                            "mappingTable": {
-                                "value": [
-                                    {
-                                        "expression": {
-                                            "expression": true,
-                                            "value": "$.hasOwnProperty(\"entity.sha\") ? $entity.sha : null"
-                                        },
-                                        "targetPath": {
-                                            "value": "$sha"
-                                        }
-                                    }
-                                ]
-                            }
-                        }
-                    }
-                },
-                "view_serial": 100
-            }
-        },
         "11111111-1111-1111-1111-00000000000a": {
-            "class_id": "com-snaplogic-snaps-transform-multijoin",
-            "class_version": 1,
+            "class_id": "com-snaplogic-snaps-flow-union",
+            "class_version": 2,
             "instance_id": "11111111-1111-1111-1111-00000000000a",
             "property_map": {
                 "error": {
@@ -1122,10 +1173,7 @@
                 },
                 "info": {
                     "label": {
-                        "value": "Join"
-                    },
-                    "notes": {
-                        "value": null
+                        "value": "Union"
                     }
                 },
                 "input": {
@@ -1156,147 +1204,16 @@
                         }
                     }
                 },
-                "settings": {
-                    "joinPaths": {
-                        "value": [
-                            {
-                                "leftPath": {
-                                    "expression": true,
-                                    "value": "1"
-                                },
-                                "rightInputView": {
-                                    "value": "input1"
-                                },
-                                "rightPath": {
-                                    "expression": true,
-                                    "value": "1"
-                                }
-                            }
-                        ]
-                    },
-                    "joinType": {
-                        "value": "Merge"
-                    },
-                    "noMatchData": {
-                        "value": false
-                    },
-                    "nullGreater": {
-                        "value": false
-                    },
-                    "nullSafeAccess": {
-                        "value": false
-                    },
-                    "sortedStreams": {
-                        "value": "Ascending"
-                    }
-                },
-                "view_serial": 101
-            }
-        },
-        "11111111-1111-1111-1111-00000000000b": {
-            "class_id": "com-snaplogic-snaps-flow-router",
-            "class_version": 2,
-            "instance_id": "11111111-1111-1111-1111-00000000000b",
-            "property_map": {
-                "error": {
-                    "error0": {
-                        "label": {
-                            "value": "error0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    },
-                    "error_behavior": {
-                        "value": "fail"
-                    }
-                },
-                "info": {
-                    "label": {
-                        "value": "Router"
-                    },
-                    "notes": {
-                        "value": null
-                    }
-                },
-                "input": {
-                    "input0": {
-                        "label": {
-                            "value": "input0"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    }
-                },
-                "output": {
-                    "output0": {
-                        "label": {
-                            "value": "Create"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    },
-                    "output1": {
-                        "label": {
-                            "value": "Update"
-                        },
-                        "view_type": {
-                            "value": "document"
-                        }
-                    }
-                },
-                "settings": {
-                    "firstMatch": {
-                        "value": true
-                    },
-                    "routes": {
-                        "value": [
-                            {
-                                "expression": {
-                                    "expression": true,
-                                    "value": "$sha == null"
-                                },
-                                "outputViewName": {
-                                    "value": "Create"
-                                }
-                            },
-                            {
-                                "expression": {
-                                    "expression": true,
-                                    "value": "$sha != null"
-                                },
-                                "outputViewName": {
-                                    "value": "Update"
-                                }
-                            }
-                        ]
-                    }
-                },
+                "settings": {},
                 "view_serial": 100
             }
         },
-        "11111111-1111-1111-1111-00000000000c": {
+        "11111111-1111-1111-1111-00000000000b": {
             "class_id": "com-snaplogic-snaps-rest-put",
             "class_version": 1,
-            "instance_id": "11111111-1111-1111-1111-00000000000c",
+            "instance_id": "11111111-1111-1111-1111-00000000000b",
             "property_map": {
-                "account": {
-                    "account_ref": {
-                        "value": {
-                            "label": {
-                                "value": "Nidhi Git"
-                            },
-                            "ref_class_id": {
-                                "value": "com-snaplogic-snaps-rest-restbasicauthaccount"
-                            },
-                            "ref_id": {
-                                "value": null
-                            }
-                        }
-                    }
-                },
+                "account": {},
                 "error": {
                     "error0": {
                         "label": {
@@ -1402,6 +1319,61 @@
                         "value": false
                     }
                 },
+                "view_serial": 100
+            }
+        },
+        "11111111-1111-1111-1111-00000000000c": {
+            "class_id": "com-snaplogic-snaps-flow-union",
+            "class_version": 2,
+            "instance_id": "11111111-1111-1111-1111-00000000000c",
+            "property_map": {
+                "error": {
+                    "error0": {
+                        "label": {
+                            "value": "error0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "error_behavior": {
+                        "value": "fail"
+                    }
+                },
+                "info": {
+                    "label": {
+                        "value": "Union"
+                    }
+                },
+                "input": {
+                    "input0": {
+                        "label": {
+                            "value": "input0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    },
+                    "input1": {
+                        "label": {
+                            "value": "input1"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "output": {
+                    "output0": {
+                        "label": {
+                            "value": "output0"
+                        },
+                        "view_type": {
+                            "value": "document"
+                        }
+                    }
+                },
+                "settings": {},
                 "view_serial": 100
             }
         }
